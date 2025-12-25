@@ -30,7 +30,7 @@
 ---
 
 ##  Table of Contents
-- [ Overview](#️-overview)
+- [ Overview](#️overview)
 - [ Team](#-team)
 - [ Problem](#-problem)
 - [ Solution](#-solution)
@@ -218,6 +218,7 @@ Resources used in the initial MVP version:
 
 
 ---
+
 
 
 
