@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/51fd7451-e708-4fd2-a70e-caac8746781a" width="300" height="300" alt="WaterTwin AI Dashboard">
 </div>
 
-# <code>Patent AI</code>
+# <code> Patent AI </code>
 
 **CODIOM**
 
@@ -218,6 +218,7 @@ Resources used in the initial MVP version:
 
 
 ---
+
 
 
 
